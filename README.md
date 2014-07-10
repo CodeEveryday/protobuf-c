@@ -53,3 +53,5 @@ This will place compiler flags in the `PROTOBUF_C_CFLAGS` variable and linker fl
 Please send patches to the [protobuf-c mailing list](https://groups.google.com/forum/#!forum/protobuf-c) or by opening a GitHub pull request.
 
 Copyright to all contributions are retained by the original author, but must be licensed under the terms of the [BSD-2-Clause](http://opensource.org/licenses/BSD-2-Clause) license. Please add a `Signed-off-by` header to your commit message (`git commit -s`) to indicate that you are licensing your contribution under these terms.
+
+test
